@@ -45,5 +45,5 @@ The repository has been structured cleanly to separate raw data, model scripts, 
 │   ├── BT2024203_pred_var1.csv       # Final inference results for Phase 1
 │   └── BT2024203_pred_var2.csv       # Final inference results for Phase 2
 │
-└── README.md                         # Project documentation (You are here!)
+└── README.md                         # Project documentation 
 ```
